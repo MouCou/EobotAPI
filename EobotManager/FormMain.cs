@@ -28,6 +28,7 @@ namespace EobotManager
             //eEmail.Text = DemoConstant.email;
             //ePassword.Text = DemoConstant.APIKey;
 
+
             eUserId.Text = Settings.Default.UserId;
             eEmail.Text = Settings.Default.Email;
             ePassword.Text = Settings.Default.PassWord;
