@@ -1,4 +1,5 @@
 ## Welcome to Eobot Manager Project
+### This is not an official release, and Eobot is not the issuer !
 
 The manager project is actually more of a demo project than a full manager, which serves to show what the API can do.
 
